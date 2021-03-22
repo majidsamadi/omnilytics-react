@@ -1,0 +1,12 @@
+.flex{
+  display: flex;
+}
+
+.flex-column{
+  flex-direction: column;
+}
+
+.row{
+  margin-top: 20px !important;
+}
+
